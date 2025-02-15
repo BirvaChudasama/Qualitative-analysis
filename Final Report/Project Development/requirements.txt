@@ -1,0 +1,8 @@
+python-docx
+pandas
+nltk
+spacy
+scikit-learn
+openpyxl
+PyPDF2
+spacy>=3.0.0
