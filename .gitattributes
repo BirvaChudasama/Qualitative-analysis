@@ -1,0 +1,2 @@
+Final[[:space:]]Report/Project[[:space:]]Development/build/main/main.pkg filter=lfs diff=lfs merge=lfs -text
+Final[[:space:]]Report/Project[[:space:]]Development/dist/main.exe filter=lfs diff=lfs merge=lfs -text
